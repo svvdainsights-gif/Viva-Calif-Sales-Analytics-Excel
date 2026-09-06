@@ -28,4 +28,4 @@ An Interactive Advanced Excel Dashboard designed to analyze e-commerce order met
 ## 🚀 How to View the Project
 1. Download or clone this repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/viva-calif-sales-analytics-excel.git](https://github.com/YOUR-USERNAME/viva-calif-sales-analytics-excel.git)
+   git clone [https://github.com/svvdainsights-gif/viva-calif-sales-analytics-excel.git](https://github.com/YOUR-USERNAME/viva-calif-sales-analytics-excel.git)
